@@ -3,7 +3,7 @@ A simple Exploratory Data Analysis for the Titanic dataset
 
 # About the Dataset 
 The Titanic Dataset is a famous dataset in the field of Data Science. 
-It contains all the information about the passengers inside the ill-fated Titanic Ship that sank in 1912.
+It contains all the information about the passengers inside the ill-fated Titanic Ship that sank on 1912 in the North Atlantic Ocean.
 
 I will use the dataset to learn about Exploratory Data Analysis (EDA)
 
